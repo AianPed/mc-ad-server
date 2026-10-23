@@ -1,5 +1,16 @@
 {
   "version": 1,
-  "updated": "2026-10-24T00:00:00+09:00",
-  "ads": []
+  "updated": "2026-10-24T03:00:00+09:00",
+  "ads": [
+    {
+      "id": "google001",
+      "name": "Google 검색 바로가기",
+      "image": "ads/google_banner_704x112.gif",
+      "url": "https://www.google.com/",
+      "start": "2026-10-24T00:00:00+09:00",
+      "end": "2030-12-31T23:59:59+09:00",
+      "enabled": true,
+      "priority": 10
+    }
+  ]
 }
